@@ -43,6 +43,7 @@ Customer #3     4000            3000              4000
 
 Total Loan: $ 6000
 Total Capital: $ 10000
+
 ```
 
 ## Acknowledgments
