@@ -1,6 +1,3 @@
-#  Loan Management System Project
-
-```markdown
 # Loan Management System
 
 ## Description
