@@ -1,4 +1,4 @@
-# Loan Management System
+# Basic Loan Management System
 
 ## Description
 The Loan Management System is a simple Java application designed to manage loan amounts for multiple customers. This program allows users to calculate total loan amounts, display detailed loan information, and summarize available capital. It serves as an educational tool for understanding basic loan management concepts and Java programming.
