@@ -19,7 +19,7 @@ The Loan Management System is a simple Java application designed to manage loan 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LoanManagementSystem.git
+   git clone https://github.com/HChristopherNaoyuki/loan-management-system-demo.git
    ```
 2. Navigate to the project directory:
    ```bash
